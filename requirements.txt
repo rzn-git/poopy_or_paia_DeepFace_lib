@@ -1,0 +1,3 @@
+tensorflow==2.5.0  
+deepface==0.0.1    
+retinaface==1.1.1  
